@@ -200,6 +200,8 @@ public class ClientGui extends JFrame implements ActionListener {
 		//usersbox.setText("Online Users:");
 		gbpanel0.setConstraints(usersbox, gbcpanel0);
 		panel0.add(usersbox);
+		
+		//tHIS IS HOW YOU EDIT
 
 		text1 = new JTextField();
 		gbcpanel0.gridx = 1;
